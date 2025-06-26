@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg2-binary  # For PostgreSQL, if you decide to use it later
+python-dotenv
+pytest
+pytest-asyncio
+httpx
